@@ -27,3 +27,8 @@ R = Deve se incluir essa lista de extensões no  gitignore que consiste em um ar
 # Questão 5
 
 R = As suas novas responsabilidades são de representar os interesses do stakeholders, ele deve definir as funcionalidades do produto e também faz a gestão do sprint backlog. Ele deve definir o sprint backlog, executar o planejamento das sprints, orientar a equipe, garantir transparência do backlog e entre outras funções relacionadas ao framework Scrum.
+
+
+# Questão 6
+
+Esse programa com o nome "main.java" tem um obejetivo de receber o nome do usuario, e após isso o mesmo tem acesso a um quiz de 5 quesões de multipla escolha, onde quando ele responde é informado se errou ou acertou, e ao final das 5 perguntas mostra seu total de erros e acertos.
