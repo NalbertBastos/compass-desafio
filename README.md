@@ -17,3 +17,8 @@ R = É conhecido como um framework para organizar demandas e tarefas e executar 
 # Questão 3 
 
 R = Porque são arquivos novos, que ainda não foram adicionados ao repositório. É necessário fazer o git add, pois esse comando vai adicionar os novos arquivos. Pode fazer "git add." para adicionar tudo ou "git add 'nome_do_arquivo'" para adiconar um por um.
+
+
+# Questão 4 
+
+R = Deve se incluir essa lista de extensões no  gitignore que consiste em um arquivo de texto que diz ao git que esses arquivos devem sem ignorados para o projeto.
