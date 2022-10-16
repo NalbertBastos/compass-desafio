@@ -22,3 +22,8 @@ R = Porque são arquivos novos, que ainda não foram adicionados ao repositório
 # Questão 4 
 
 R = Deve se incluir essa lista de extensões no  gitignore que consiste em um arquivo de texto que diz ao git que esses arquivos devem sem ignorados para o projeto.
+
+
+# Questão 5
+
+R = As suas novas responsabilidades são de representar os interesses do stakeholders, ele deve definir as funcionalidades do produto e também faz a gestão do sprint backlog. Ele deve definir o sprint backlog, executar o planejamento das sprints, orientar a equipe, garantir transparência do backlog e entre outras funções relacionadas ao framework Scrum.
