@@ -14,7 +14,7 @@ public class Bonus {
         String [] funcionario = new String[x];
         double [] salario = new double[x];
         
-        for(int i = 0;i<funcionario.length;i++){
+        for(int i = 0;i<x;i++){
             System.out.println("Informe o nome do funcionário");
             funcionario[i] = ler.next();
             System.out.println("Informe o salário do funcionário");
