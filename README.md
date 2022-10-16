@@ -32,3 +32,8 @@ R = As suas novas responsabilidades são de representar os interesses do stakeho
 # Questão 6
 
 Esse programa com o nome "main.java" tem um obejetivo de receber o nome do usuario, e após isso o mesmo tem acesso a um quiz de 5 quesões de multipla escolha, onde quando ele responde é informado se errou ou acertou, e ao final das 5 perguntas mostra seu total de erros e acertos.
+
+
+# Questão 7 
+
+Esse programa com o nome de "Login.java" tem o objetivo de receber nome do usuario e a sua senha se ambos estiverem corrretos ele concegue logar no sistema e recebe um mensagem de "bom dia", "Boa Tarde", "Boa noite" e "Boa madrugada" dependendo apenas do horário em que o mesmo conseguir logar no sistema. O progama tem nele armazenado três usuários e três senhas em dois Arrays, um com o nome de "login",que é referente ao usuário, e o outro com o nome de "senhas", que é referente as senhas. No caso do usuario errar a senha ou o nome do usuário, ele mostra uma mensagem de erro e pergunta se deseja tentar novamente, sendo o número de tentativas infinito. 
