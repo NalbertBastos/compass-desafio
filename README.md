@@ -1,7 +1,7 @@
 # compass-desafio
 # prova 1
 
-# Todos os projetos foram criados de maneira simples em uma unica classe para cada um; 
+# Todos os projetos foram criados de maneira simples com uma unica classe para cada projeto; 
 
 # Questão 1
 
