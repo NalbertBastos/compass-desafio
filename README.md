@@ -1,6 +1,8 @@
 # compass-desafio
 # prova 1
 
+# Todos os projetos foram criados de maneira simples em uma unica classe para cada um; 
+
 # Questão 1
 
 R = Uma daily deve durar cerca de no máximo 15 min.
